@@ -1,0 +1,19 @@
+django==2.2.5
+django-auditlog==0.4.5
+django-cors-headers==3.1.0
+django-environ==0.4.5
+django-extensions==2.2.1
+django-filter==2.1.0
+djangorestframework==3.10.3
+djangorestframework-api-key==1.4.1
+djangorestframework-filters==1.0.0.dev0
+dj-database-url==0.5.0
+drf-flex-fields==0.6.1
+drf-nested-routers==0.91
+packaging==19.1
+drf-yasg==1.16.1
+dry-rest-permissions==0.1.10
+psycopg2>=2.8 --no-binary psycopg2
+python-dateutil==2.6.0
+requests==2.20
+whitenoise==4.1.3
